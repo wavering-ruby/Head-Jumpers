@@ -1,3 +1,3 @@
 # Head-Jumpers
 
-![banner_characters](main/Personagens.jpeg)
+![banner_characters](Head-Jumpers/Personagens.jpeg)
