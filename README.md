@@ -1,3 +1,3 @@
 # Head-Jumpers
 
-![banner_characters](Head-Jumpers/Personagens.png)
+![banner_characters](https://github.com/wavering-ruby/Head-Jumpers/blob/main/banner_characters.png)
