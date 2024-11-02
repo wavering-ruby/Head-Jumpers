@@ -15,7 +15,7 @@
 <h4 align="center">
   
   ![GameMaker](https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&labelColor=black)
-  ![Jira Software](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jirasoftware&labelColor=blue)
+  ![Jira Software](https://img.shields.io/badge/Jira_Software-blue?style=for-the-badge&logo=jirasoftware&labelColor=blue)
   ![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=235865F2)
   ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white&labelColor=7D929E)
 
@@ -30,7 +30,7 @@
 ## Instructions
 ### Running the Game
 
-First, you need to download the zipped folder named "HeadJumpers-X.Y.Z" Where "X.Y.Z" is the latest executable version of the game. 
+First, you need to download the zipped folder named "HeadJumpers-X.Y.Z". Where "X.Y.Z" is the latest executable version of the game. 
 **This game only work in Windows (Operating System), for while.**
 
 After this, you need to 
@@ -46,7 +46,7 @@ pip install
 
 <h4 align="center">
 
-  ![Google Forms](https://img.shields.io/badge/GoogleForms-7248B9?style=flat-square&logo=googleforms&logoColor=white&labelColor=#7248B9)
+  ![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white&labelColor=#7248B9)
   
 </h4>
 
