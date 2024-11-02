@@ -41,7 +41,7 @@ After this, you need to
 pip install
 ```
 
-## Help Us
+## :chains: Help Us
   If you want to help with the development of Head Jumpers, please answer the survey below:
 
 <h4 align="center">
@@ -50,6 +50,6 @@ pip install
   
 </h4>
 
-## License
+## :heavy_check_mark: License
 
 *In costruction*
