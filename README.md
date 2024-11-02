@@ -2,7 +2,7 @@
   <img src="/Img/logo_headjumpers_fire.png" width="200" height="200">
 </p>
 
-## About Head Jumpers
+## :fire: About Head Jumpers
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## Usage Technology
+## :desktop_computer: Usage Technology
 
 <h4 align="center">
   
@@ -27,7 +27,7 @@
 | Developer 1 | Project Manager / Programmer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateus-gabriel-mendes-de-paula-9589891b2/)|Responsible for managing and advancing game tasks. Assisted with programming. |
 | Developer 2 | Character Designer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateus-gabriel-mendes-de-paula-9589891b2/)(link do linkedin) | Responsible for the character's splash art. |
 
-## Instructions
+## :notebook_with_decorative_cover: Instructions
 ### Running the Game
 
 First, you need to download the zipped folder named "HeadJumpers-X.Y.Z". Where "X.Y.Z" is the latest executable version of the game. 
