@@ -35,7 +35,7 @@ First, you need to download the zipped folder named "HeadJumpers-X.Y.Z". Where "
 
 After this, you need to extract the zipped folder in your desktop. Finally, you only need to run the application "Head Jumpers.exe" as an administrator.
 
-### :video_game: Controllers
+### Controllers
 
 You and one friend will share a single keyboard for this game.
 
