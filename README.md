@@ -33,13 +33,31 @@
 First, you need to download the zipped folder named "HeadJumpers-X.Y.Z". Where "X.Y.Z" is the latest executable version of the game. 
 **This game only work in Windows (Operating System), for while.**
 
-After this, you need to 
+After this, you need to extract the zipped folder in your desktop. Finally, you only need to run the application "Head Jumpers.exe" as an administrator.
 
-### Commands
+### :video_game: Controllers
+
+You and one friend will share a single keyboard for this game.
 
 ```bash
-pip install
+Player One
+W - To Jump
+A - Move to left
+D - Move to right
+S - Gravity Aceleration
+Q - Use a skill
 ```
+
+```bash
+Player Two
+⬆ - To Jump
+⬅ - Move to left
+⮕ - Move to right
+⬇ - Gravity Aceleration
+Enter - Use a skill
+```
+
+**Note:** In the main menu, player one controls the option selection.
 
 ## :chains: Help Us
   If you want to help with the development of Head Jumpers, please answer the survey below:
