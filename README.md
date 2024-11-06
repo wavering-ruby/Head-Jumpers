@@ -7,7 +7,7 @@
 <div align="center">
 
   Head Jumpers is an indie platformer, two players, competitive game where you jump on enemies' heads to reduce their three lives. se various abilities of the playable characters to aid in your fight!
-
+tecla
 </div>
 
 ## :desktop_computer: Usage Technology
@@ -59,15 +59,25 @@ Enter - Use a skill
 
 **Note:** In the main menu, player one controls the option selection.
 
+## :video_game: Gameplay
+
+### Characters
+
+*In construction*
+
+### Maps
+
+*In construction *
+
 ## :chains: Help Us
   If you want to help with the development of Head Jumpers, please answer the survey below:
 
 <h4 align="center">
 
-  ![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white&labelColor=#7248B9)
+  [![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white&labelColor=#7248B9)](https://forms.gle/w9hv9kfsEJuFYYx26)
   
 </h4>
 
 ## :heavy_check_mark: License
 
-*In costruction*
+*In construction*
