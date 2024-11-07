@@ -25,7 +25,7 @@ tecla
 | **Nome**| **Role** | **LinkedIn** | **Activities** |
 |:----------------------:|:-----------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
 | Developer 1 | Project Manager / Programmer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateus-gabriel-mendes-de-paula-9589891b2/)|Responsible for managing and advancing game tasks. Assisted with programming. |
-| Developer 2 | Character Designer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateus-gabriel-mendes-de-paula-9589891b2/)(link do linkedin) | Responsible for the character's splash art. |
+| Angelo Salvatti | Character Designer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/angelo-salvatti-2a991023a/) | Responsible for the character's splash art. |
 
 ## :notebook_with_decorative_cover: Instructions
 ### Running the Game
