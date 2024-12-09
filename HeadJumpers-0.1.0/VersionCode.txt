@@ -1,5 +1,0 @@
-X.Y.Z.
-
-(X) is for EMERGENCY modifications in the game
-(Y) is for BIG modifications in the game
-(Z) is for LITTLE modifications in the game
