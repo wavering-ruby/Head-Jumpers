@@ -63,7 +63,7 @@ Player Two
 ⬅ - Move to left
 ⮕ - Move to right
 ⬇ - Gravity Aceleration
-Enter - Use a skill
+Numpad 0 - Use a skill
 ```
 
 **Note:** In the main menu, player one controls the option selection.
