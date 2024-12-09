@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/3. Image/logo_headjumpers_fire.png" width="200" height="200">
+  <img src="/3. Images/logo_headjumpers_fire.png" width="200" height="200">
 </p>
 
 ## :fire: About Head Jumpers
