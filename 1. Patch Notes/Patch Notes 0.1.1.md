@@ -7,7 +7,7 @@
 • In Headball when you use your attack skill (kick) the ball stun the other player. <br>
 
 ### Acir
-:arrows_counterclockwise: | Now have you have a preview of which Acir's toten will be spawned when you use your defense skill.
+:arrows_counterclockwise: | Now you have a preview of which Acir's toten will be spawned when you use your defense skill.
 
 ### Esqueleto
 :arrows_counterclockwise: | Now you can't move in defense mode.
