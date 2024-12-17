@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/3. Images/Patch-0.1.1.png" width="1280" height="720">
+  <img src="/3. Images/Patch-0.1.1.png" width="640" height="360">
 </p>
 
 ## :fire: Patch Notes 0.1.1.
