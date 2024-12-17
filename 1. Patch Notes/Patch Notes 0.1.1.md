@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/3. Images/Patch-0.1.1.png" width="200" height="200">
+</p>
+
 ## :fire: Patch Notes 0.1.1.
 
 ### :wrench: Ajustments
