@@ -66,7 +66,7 @@ Player Two
 Numpad 0 - Use a skill
 ```
 
-**Note:** In the main menu, player one controls the option selection.
+**Note:** In versions before 2.0., in the main menu, player one controls the option selection.
 
 ## :video_game: Characters
 <table>
