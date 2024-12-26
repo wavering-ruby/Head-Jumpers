@@ -68,15 +68,57 @@ Numpad 0 - Use a skill
 
 **Note:** In the main menu, player one controls the option selection.
 
-## :video_game: Gameplay
-
-### Characters
-
-*In construction*
-
-### Maps
-
-*In construction*
+## :video_game: Characters
+<table>
+  <tr>
+    <td>
+      <img src="/3. Images/card-acir.jpg" width="238" height="368">
+    </td>
+    <td>
+      <strong>Acir:</strong> A shaman who uses his bond with spirits. He can shoot spiritual arrows and summon totems that enhance his physical attributes. 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/3. Images/card-bruna.jpg" width="238" height="368">
+    </td>
+    <td>
+      <strong>Bruna:</strong> A sorceress who was corrupted by dark magic. She can summon a shadow bear that tears apart nearby enemies and uses fire to repel foes. 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/3. Images/card-erick.jpg" width="238" height="368">
+    </td>
+    <td>
+      <strong>Erick:</strong> A Viking addicted to combat and training his body. He can throw axes to wound his enemies and use his shield to deflect projectiles and charge at them.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/3. Images/card-esqueleto.jpg" width="238" height="368">
+    </td>
+    <td>
+      <strong>Esqueleto:</strong> A creature created by the dark abyss. It is capable of using its body to strike enemies (bouncing off walls) and can disassemble itself to become immune to damage.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/3. Images/card-lucas.jpg" width="238" height="368">
+    </td>
+    <td>
+      <strong>Lucas:</strong> A samurai (at least in his own mind) who fights against the abyss. He uses his incredible speed to charge at enemies or retreat in an invulnerable state.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/3. Images/card-naja.jpg" width="238" height="368">
+    </td>
+    <td>
+      <strong>Naja:</strong> A serpent capable of petrifying its enemies. Use its attack to freeze foes and transform into a viper to escape from enemies.
+    </td>
+  </tr>
+</table>
 
 ## :chains: Help Us
   If you want to help with the development of Head Jumpers, please answer the survey below:
