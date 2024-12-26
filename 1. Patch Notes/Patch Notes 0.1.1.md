@@ -10,8 +10,15 @@
 • In any mode, you have Gravity Aceleration, just clicking down (S for player 1 and Down Arrow for player 2). <br>
 • In Headball when you use your attack skill (kick) the ball stun the other player for one second. <br>
 
+<table>
+  <tr>
+    <td>
+      
+    </td>
+  </tr>
 ### Acir
 :arrows_counterclockwise: | Now you have a preview of which Acir's toten will be spawned when you use your defense skill.
 
 ### Esqueleto
 :arrows_counterclockwise: | Now you can't move in defense mode.
+</table>
