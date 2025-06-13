@@ -31,10 +31,17 @@ tecla
 | Caio Viana de Jesus | Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/caio-viana-de-jesus-10726023a/) | Responsible for programming the game code |
 | Felipe Pereira da Silva | Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/felipe-pereira-a23a47290/) | Responsible for programming the game code |
 | Luis Patrick Soares | Map Designer / Commercial | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/luis-patrick-00b8a6327/) | Responsible for commercial art  and map's pixel art |
-| Mateus Gabriel Mendes de Power | Project Manager / Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateus-gabriel-mendes-de-paula-9589891b2/)|Responsible for managing and advancing game tasks. Assisted with programming. |
-| Pedro Alves de Moraes Medeiros | Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pedro-alves-de-moraes-medeiros-775a9a268/) | Responsible for programming the game code |
+| Mateus Gabriel Mendes de Power | Project Manager / Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateus-gabriel-mendes-de-paula-9589891b2/)| Responsible for managing and advancing game tasks. Assisted with programming. |
 | Pedro "Saruê" da Silva Santos | Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pedro-da-silva-santos-526812337/) | Responsible for review the game code |
 | Victor Giordano Damiani | Character Designer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/victor-giordano-damiani-946223290/) | Responsible for the character's pixel art |
+
+## Honerable Mencions
+
+| **Nome**| **Role** | **Activities** |
+|:----------------------:|:-----------------:|:----------------------------------------------------------:|
+| Pedro Alves de Medeiros | Developer | Contributed to programming Acir's skills |
+| Lucas Vitor Florêncio | Developer | Contributed to programming for Headball |
+| Daniel Zinho | Designer | Assisted in creating the map and sprites for the game |
 
 ## :notebook_with_decorative_cover: Instructions
 ### Running the Game
