@@ -35,7 +35,7 @@ tecla
 | Pedro "Saruê" da Silva Santos | Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pedro-da-silva-santos-526812337/) | Responsible for review the game code |
 | Victor Giordano Damiani | Character Designer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/victor-giordano-damiani-946223290/) | Responsible for the character's pixel art |
 
-## Honerable Mencions
+## Honorable Mentions
 
 | **Nome**| **Role** | **Activities** |
 |:----------------------:|:-----------------:|:----------------------------------------------------------:|
