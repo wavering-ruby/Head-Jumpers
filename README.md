@@ -70,10 +70,19 @@ Player Two
 ⬅ - Move to left
 ⮕ - Move to right
 ⬇ - Gravity Aceleration
-Numpad 0 - Use a skill
+Enter - Use a skill
 ```
 
 **Note:** In versions before 2.0., in the main menu, player one controls the option selection.
+
+### Another Commands
+
+```bash
+F1 = FULLSCREEN
+F2 = RESTART THE ROOM
+F5 = PAUSE
+F11 = CREDITS
+```
 
 ## :video_game: Characters
 <table>
